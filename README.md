@@ -10,7 +10,8 @@ shirts in 3D.
 - **Create a crowd.** Start from any game crowd (default, Mexican, Japanese...) and
   choose how many men, women and kids it has. AudienceLab writes the crowd and a
   `.audiencelab` file to share it with your mod; then pick it for your arena in
-  ArenaLab.
+  Tribute. A crowd can have many shirt groups, and each arena picks one by its name
+  in the ArenaDef. Delete a group and its files go with it.
 - **Design the shirts in 3D.** All the extras of a crowd in one place, on a 3D model.
   Put logos on the chest or back, lift a logo that's already painted on a shirt to
   move or resize it, recolor shirts, build a jersey from a flat template or a photo,
